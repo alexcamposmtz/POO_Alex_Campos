@@ -65,17 +65,17 @@ O desde VS Code, con el botón **Run** sobre el método `main` de `App.java`.
 ## Ejemplo de salida
 
 ```
-=== Valores iniciales ===
+
 Cuadrado:   lado1 = 4.0
 Triangulo:  lado1 = 3.0, lado2 = 4.0, lado3 = 5.0, altura = 2.4
 Rectangulo: base (lado1) = 6.0, altura (lado2) = 3.0
 
-=== Valores despues de los set ===
+valores
 Cuadrado:   lado1 = 7.0
 Triangulo:  lado1 = 6.0, lado2 = 8.0, lado3 = 10.0, altura = 4.8
 Rectangulo: base (lado1) = 10.0, altura (lado2) = 5.0
 
-=== Perimetros y areas ===
+Perimetros y areas
 Cuadrado:   perimetro = 28.0, area = 49.0
 Triangulo:  perimetro = 24.0, area = 14.4
 Rectangulo: perimetro = 30.0, area = 50.0
